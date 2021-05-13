@@ -1,0 +1,7 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Netz98 Blog Reader{% endblock %}
+
+{% block body %}
+    <div id="react-app" data-ajax-url="{{ url('blog') }}"></div>
+{% endblock %}

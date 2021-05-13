@@ -54,3 +54,6 @@ posts on the left and displays the selected post on the right side.
 
 *As a sidenote, the blog seems to provide a pagination functionality but in my case, for each page the same articles 
 were returned so I did not get into implementing a pagination in the application. It would be quite easy to add though.*
+
+*The following commit contains all the manual work done for this implementation: 
+https://github.com/FVCHS/netz98-blog-reader/commit/cd216ca08a36762be6dbd24b891c5c22b080f2f7*
